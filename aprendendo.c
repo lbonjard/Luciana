@@ -6,7 +6,8 @@
 /*   By: lbonjard <lbonjard@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/27 20:29:14 by lbonjard          #+#    #+#             */
-/*   Updated: 2022/01/27 20:30:18 by lbonjard         ###   ########.fr       */
+/*   Updated: 2022/01/27 21:29:11 by lbonjard         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+//Hoje estou melhor do que ontem
